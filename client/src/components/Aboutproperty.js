@@ -1,7 +1,11 @@
 import React from "react";
 
 const Aboutproperty = () => {
-  return <div>Aboutproperty</div>;
+  return (
+    <div>
+      Aboutproperty<span>This is about my property</span>
+    </div>
+  );
 };
 
 export default Aboutproperty;
